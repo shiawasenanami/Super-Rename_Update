@@ -1,0 +1,5 @@
+echo {^
+  "latest_version": "v1.2.0",^
+  "download_url": "https://github.com/shiawasenanami/Super-Rename_Update/releases/latest/download/SuperRename_v1.2.0.zip",^
+  "notes": "v1.2.0: Add Auto Update and themes"^
+} > version.json
