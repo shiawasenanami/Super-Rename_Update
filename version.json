@@ -1,5 +1,5 @@
-echo {^
-  "latest_version": "v1.2.0",^
-  "download_url": "https://github.com/shiawasenanami/Super-Rename_Update/releases/latest/download/SuperRename_v1.2.0.zip",^
-  "notes": "v1.2.0: Add Auto Update and themes"^
-} > version.json
+{
+    "latest_version": "v1.3.0",
+    "notes": "ฟีเจอร์ในเวอร์ชั่นนี้:\n- Font ภาษาไทยอ่านง่าย\n- Progress bar แสดงสถานะการทำงาน\n- Preview ก่อนเปลี่ยนชื่อ\n- ตารางไฟล์ปรับยืดหยุ่นตามหน้าต่าง\n- ปุ่ม Update เช็ค GitHub ได้\n- ผู้ใช้สามารถแจ้งบัคโปรแกรมได้",
+    "download_url": "https://github.com/shiawasenanami/Super-Rename_Update/releases/latest/download/SuperRename.zip"
+}
