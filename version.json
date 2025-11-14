@@ -1,14 +1,4 @@
 {
-    "latest_version": "v1.3.3",
-    "download_url": "https://github.com/shiawasenanami/Super-Rename_Update/releases/download/SuperRename_v1.3.3/SuperRename_v1.3.3.zip",
-    "changelog": [
-        "เพิ่มการจัดเรียงไฟล์อัตโนมัติแบบ natural sort (EP1 < EP2 < EP10)",
-        "เพิ่มการลากคลุมเพื่อเลือก (drag-select) ใน list",
-        "เพิ่มคอลัมน์สถานะ (✓) แสดงเมื่อไฟล์ถูกเปลี่ยนชื่อ",
-        "แสดงขนาดไฟล์เป็น MB",
-        "Preview แยกจากการ Rename (ต้องกด Apply Rename เพื่อทำจริง)",
-        "ปรับปรุงการทำงานของ Apply Rename ให้ทำงานใน background thread",
-        "โปรแกรมสามารถอัปเดตตัวเองอัตโนมัติจาก GitHub"
-		"แก้ไขบัคตั้งชื่อไฟล์ที่โปรแกรมบังคับให้ตัวเลขเริ่มจาก 01,02,03...เท่านั้น ได้รับการปรับปรุงแล้ว"
-    ]
+    "latest_version": "v1.3.4",
+    "download_url": "https://github.com/shiawasenanami/Super-Rename_Update/raw/main/SuperRename_v1.3.4.zip",
 }
